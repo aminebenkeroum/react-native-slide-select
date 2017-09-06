@@ -96,6 +96,8 @@ SlideSelect.propTypes = {
 
 // Default Props
 SlideSelect.defaultProps = {
-  isImage: false
+  isImage: false,
+  arrowsColor: 'white',
+  arrowsSize: 25,
 };
 
